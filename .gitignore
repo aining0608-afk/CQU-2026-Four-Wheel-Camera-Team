@@ -1,0 +1,30 @@
+# AURIX Development Studio / Eclipse build outputs
+/Debug/
+/Release/
+
+# Compiler and linker outputs
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.mdf
+*.opt
+*.mk
+
+# Local launch/debug layouts
+*.launch
+*.OneEye
+
+# Temporary and backup files
+*.bak
+*.bak2
+*.bak_*
+*.bak-*
+*~
+*.tmp
+
+# OS/editor metadata
+.DS_Store
+Thumbs.db
+desktop.ini
